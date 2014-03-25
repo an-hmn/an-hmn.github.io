@@ -36,6 +36,7 @@ gem 'protected_attributes'
 gem 'bootstrap-sass'
 gem 'haml'
 gem 'sextant'
+gem 'rails_12factor'
 
 # Additional gems
 group :development do
